@@ -1,0 +1,14 @@
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\bin\Debug\net8.0\dobbel2.exe
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\bin\Debug\net8.0\dobbel2.deps.json
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\bin\Debug\net8.0\dobbel2.runtimeconfig.json
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\bin\Debug\net8.0\dobbel2.dll
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\bin\Debug\net8.0\dobbel2.pdb
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\dobbel2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\dobbel2.AssemblyInfoInputs.cache
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\dobbel2.AssemblyInfo.cs
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\dobbel2.csproj.CoreCompileInputs.cache
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\dobbel2.dll
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\refint\dobbel2.dll
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\dobbel2.pdb
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\dobbel2.genruntimeconfig.cache
+C:\Users\rickv\RiderProjects\dobbel2\dobbel2\obj\Debug\net8.0\ref\dobbel2.dll
