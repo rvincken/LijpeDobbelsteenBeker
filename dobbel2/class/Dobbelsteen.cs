@@ -13,9 +13,9 @@ class Dobbelsteen
         Sides = sides;
     }
 
-    public virtual void Dobbel()
+    public virtual int Dobbel()
     {
         Random rnd = new Random();
-        Console.WriteLine(rnd.Next(Sides.Min(), Sides.Max() + 1));
+        return rnd.Next(Sides.Min(), Sides.Max() + 1);
     }
 }
