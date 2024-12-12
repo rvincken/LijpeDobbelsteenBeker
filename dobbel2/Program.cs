@@ -4,6 +4,21 @@ internal class Program
 {
     static void Main()
     {
-        Dobbelsteen dobbel1 = new Dobbelsteen("red", "D20", Enumerable.Range(1, 20).ToList());
+        var dobbelstenen = new List<Dobbelsteen>
+        {
+            new Dobbelsteen("rood", "vierkant", new List<int> { 1, 2, 3, 4, 5, 6 }),
+            new Dobbelsteen("blauw", "rond", new List<int> { 1, 2, 3, 4, 5, 6 }),
+            new Dobbelsteen("groen", "ster", new List<int> { 1, 2, 3, 4, 5, 6 })
+        };
+        
+        Beker beker = new Beker(dobbelstenen);
+        
+        List<int> resultaten = beker.DoeWorp();
+        
+        Console.WriteLine("Geworpen dobbelstenen:");
+        foreach (int resultaat in resultaten)
+        {
+            Console.WriteLine(resultaat);
+        }
     }
 }

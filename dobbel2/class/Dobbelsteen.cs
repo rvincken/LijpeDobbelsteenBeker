@@ -1,6 +1,6 @@
 ﻿namespace dobbel2;
 
-class Dobbelsteen
+public class Dobbelsteen
 {
     public string Color;
     public string Shape;
